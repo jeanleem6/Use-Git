@@ -1,3 +1,5 @@
+# README
+
 [Software Carpentry](https://software-carpentry.org/lessons/index.html) 出的一门 [git 课程](https://swcarpentry.github.io/git-novice/)。
 
 该课程的特点：
